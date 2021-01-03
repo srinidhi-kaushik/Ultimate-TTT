@@ -58,7 +58,7 @@ Here are some unique features implemented in this project:
   * With two human player, the program awaits input from the console at every turn
   * With one human player against a computer player, the program awaits input at every other turn
   * User can also run games where AI plays against AI
-* List of all possible moves
+* Provides list of all possible moves
   * At any time once the game has begun, a user can type an exclamation mark to receive a list of all possible next moves
   * User is then prompted to enter their next move
 * Unique Board Output
